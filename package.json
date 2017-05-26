@@ -7,7 +7,7 @@
     "serve": "brunch watch --server -e DEV"
   },
   "author": "Nicolas Vairaa",
-  "license": "ISC",
+  "license": "MIT",
   "babel": {
     "ignore": [
       "/^node_modules/"
