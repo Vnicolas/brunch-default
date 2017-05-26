@@ -2,10 +2,6 @@
   "name": "default-app",
   "version": "0.0.1",
   "description": "Default skeleton for a node app built with brunch",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/Vnicolas/brunch-default.git"
-  }
   "scripts": {
     "build": "brunch build",
     "serve": "brunch watch --server -e DEV"
@@ -27,3 +23,4 @@
     "sass-lint-brunch": "^1.1.0"
   }
 }
+git remote add origin git@github.com:Vnicolas/brunch-default.git
